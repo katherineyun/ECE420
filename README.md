@@ -1,2 +1,1 @@
-# ECE420
-Embedded DSP
+# ECE420: Embedded DSP
